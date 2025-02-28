@@ -1,0 +1,5 @@
+chance: 5 # % chance of a player becoming carsick
+time: 10 # How long carsickness should last (in seconds)
+excluded-worlds: # Worlds where players should not be subject to motion sickness
+  - world_nether
+  - world_the_end
